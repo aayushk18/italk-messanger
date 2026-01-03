@@ -61,13 +61,13 @@ const Navbar = () => {
               <div className="flex items-center gap-4">
                 
                 {/* Settings */}
-                <Link
+                {/* <Link
                   to="/settings"
                   className="flex items-center gap-1 text-gray-300 hover:text-amber-400 transition"
                 >
                   <Settings size={20} />
                   <span className="hidden sm:inline text-sm">Settings</span>
-                </Link>
+                </Link> */}
       
                 {authUser && (
                   <>
@@ -91,7 +91,8 @@ const Navbar = () => {
                       <span className="hidden sm:inline text-sm">Logout</span>
                     </button>
                   </>
-                )}
+                )
+                }
               </div>
             </div>
           </div>
