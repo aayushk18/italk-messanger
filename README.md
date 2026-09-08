@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-[Happy Valentine ziya from aayush 2026](https://kuch-special-sirf-aur-sirf-raziya-ji-ke-liye-in.vercel.app/)
+
 
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
